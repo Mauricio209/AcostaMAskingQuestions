@@ -1,0 +1,15 @@
+/Users/bernardo/Documents/RealCodeStack/AcostaMAskingQuestions/bin/Debug/net6.0/AcostaMAskingQuestions
+/Users/bernardo/Documents/RealCodeStack/AcostaMAskingQuestions/bin/Debug/net6.0/AcostaMAskingQuestions.deps.json
+/Users/bernardo/Documents/RealCodeStack/AcostaMAskingQuestions/bin/Debug/net6.0/AcostaMAskingQuestions.runtimeconfig.json
+/Users/bernardo/Documents/RealCodeStack/AcostaMAskingQuestions/bin/Debug/net6.0/AcostaMAskingQuestions.dll
+/Users/bernardo/Documents/RealCodeStack/AcostaMAskingQuestions/bin/Debug/net6.0/AcostaMAskingQuestions.pdb
+/Users/bernardo/Documents/RealCodeStack/AcostaMAskingQuestions/obj/Debug/net6.0/AcostaMAskingQuestions.csproj.AssemblyReference.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMAskingQuestions/obj/Debug/net6.0/AcostaMAskingQuestions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bernardo/Documents/RealCodeStack/AcostaMAskingQuestions/obj/Debug/net6.0/AcostaMAskingQuestions.AssemblyInfoInputs.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMAskingQuestions/obj/Debug/net6.0/AcostaMAskingQuestions.AssemblyInfo.cs
+/Users/bernardo/Documents/RealCodeStack/AcostaMAskingQuestions/obj/Debug/net6.0/AcostaMAskingQuestions.csproj.CoreCompileInputs.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMAskingQuestions/obj/Debug/net6.0/AcostaMAskingQuestions.dll
+/Users/bernardo/Documents/RealCodeStack/AcostaMAskingQuestions/obj/Debug/net6.0/refint/AcostaMAskingQuestions.dll
+/Users/bernardo/Documents/RealCodeStack/AcostaMAskingQuestions/obj/Debug/net6.0/AcostaMAskingQuestions.pdb
+/Users/bernardo/Documents/RealCodeStack/AcostaMAskingQuestions/obj/Debug/net6.0/AcostaMAskingQuestions.genruntimeconfig.cache
+/Users/bernardo/Documents/RealCodeStack/AcostaMAskingQuestions/obj/Debug/net6.0/ref/AcostaMAskingQuestions.dll
