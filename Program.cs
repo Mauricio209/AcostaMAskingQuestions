@@ -12,11 +12,11 @@ string myName = Console.ReadLine();
 
 Console.WriteLine("Good Afternoon " + myName);
 
-Console.WriteLine("How old are you! " + myName);
+Console.WriteLine("How have you been! " + myName);
 
 string myAge = Console.ReadLine();
 
-Console.WriteLine("You are " + myName + " and your age is " + myAge);
+Console.WriteLine("You are " + myName + " and you've been " + myAge);
 
 Console.WriteLine("To replay type yes");
 replay = Console.ReadLine();
